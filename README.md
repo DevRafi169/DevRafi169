@@ -1,6 +1,6 @@
 # DevWorld
 
-![Developer Illustration](developer_illustration.png)
+![Developer Illustration](rafi.jpg)
 
 Welcome to DevWorld, where passion meets technology! 🚀
 
