@@ -18,6 +18,14 @@ I am a developer passionate about creating amazing web applications. Currently, 
 - React
 - Node.js
 
+  
+# Languages and Tools I use:
+
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,sass,js,php,bootstrap,react,ts,nodejs,bash,vscode,git,github)](https://skillicons.dev)
+
+
+
 ## Education
 
 - Currently studying at BPATC School And College.
