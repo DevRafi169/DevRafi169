@@ -22,7 +22,7 @@ I am a developer passionate about creating amazing web applications. Currently, 
 # Languages and Tools I use:
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,sass,js,php,bootstrap,react,ts,nodejs,bash,vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,php,bootstrap,react,ts,nodejs,bash,vscode,git,github)](https://skillicons.dev)
 
 
 
