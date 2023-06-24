@@ -27,7 +27,7 @@ I am a developer passionate about creating amazing web applications. Currently, 
 
 Here are a few projects I've worked on:
 
-- Project 1: [Link Locker] (https://github.com/DevRafi169/Locker)
+- Project 1: [Link Locker](https://github.com/DevRafi169/Locker)
 - Project 2: [Coming Soon...](https://github.com/project2)
 - Project 3: [Coming Soon...](https://github.com/project3)
 
